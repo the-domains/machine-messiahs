@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[machine messiahs]]></title>
+        <description><![CDATA[machine messiahs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 10 Jun 2016 13:38:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[machine messiahs - Bells of Hell]]></title>
+            <description><![CDATA[<article><h1>machine messiahs - Bells of Hell</h1><p>Uploaded by machine messiahs on 2014-10-06.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78b685b2eb9ddd75380cb136b5080682f3ce7ae0.jpg"></article>]]></description>
+            <link>https://youtu.be/Or0O2GC6_nU</link>
+            <guid isPermaLink="false">686566a8-8dc8-4c89-9f6c-37e9148b4639</guid>
+            <pubDate>Fri, 10 Jun 2016 13:38:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
