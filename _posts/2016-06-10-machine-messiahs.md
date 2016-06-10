@@ -1,27 +1,36 @@
 ---
-description: >-
-  Do you still remember our dark and pixellated past, the day and age of the
-  dreaded mainframe dinosaurs, when Big Blue blocked the information highways
-  and man gaining control over the binary beasts was nothing but a dream of
-  fools?  Then a glimpse of hope was born in the cold and distant Scandinavia
-  when four people came together to make a long and dangerous journey for the
-  benefit of mankind. It was Alex Fortran, Pascal Randerz, Machinecode Anderson
-  and Cobol Marknas. Destined since birth to join together and form that
-  legendary combo, known to the world as “MACHINE MESSIAHS”, with one great
-  mission: the taming of machines…
-dateModified: '2016-06-10T13:33:17.888Z'
-datePublished: '2016-06-10T13:33:20.200Z'
-title: machine messiahs
 author: []
+related: []
+publisher:
+  url: 'http://www.machinemessiahs.com'
+  name: Machinemessiahs
+  favicon: 'http://www.machinemessiahs.com/favicon.ico'
+  domain: www.machinemessiahs.com
+keywords:
+  - reverbnation
+  - hell
+  - google
+  - youtu
+  - or0o2gc6_nu
+  - wimpmusic
+  - 62ukzs
+  - wweb
+  - 59cds9
+  - bells
+description: ''
+inLanguage: en
+app_links: []
+isBasedOnUrl: 'http://www.machinemessiahs.com/discography/'
+title: machine messiahs
+datePublished: '2016-06-10T13:48:35.091Z'
+dateModified: '2016-06-10T13:43:28.256Z'
 starred: false
 sourcePath: _posts/2016-06-10-machine-messiahs.md
 inFeed: true
 hasPage: false
 inNav: false
+_context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b908eb7f-ac31-4901-a1e4-3d625817ddd0.jpg)
-
-Do you still remember our dark and pixellated past, the day and age of the dreaded mainframe dinosaurs, when Big Blue blocked the information highways and man gaining control over the binary beasts was nothing but a dream of fools?  
-Then a glimpse of hope was born in the cold and distant Scandinavia when four people came together to make a long and dangerous journey for the benefit of mankind. It was Alex Fortran, Pascal Randerz, Machinecode Anderson and Cobol Marknas. Destined since birth to join together and form that legendary combo, known to the world as "MACHINE MESSIAHS", with one great mission: the taming of machines...
+<article style=""><h1>machine messiahs</h1><img src="http://machinemessiahs.com/wp-content/uploads/2015/08/radio-ganja.jpg" /></article>
