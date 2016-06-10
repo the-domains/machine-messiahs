@@ -1,14 +1,14 @@
-layout_spectrum: 0.5613492736592889
-typography_spectrum: 0.17929125647060573
+layout_spectrum: 0.022709897253662348
+typography_spectrum: 0.5488477679900825
 color:
-  brandStrength: 0.7670494902413338
-  lightness: 0.853859277907759
-  saturation: 0.15029292833060026
-  rhythmicContrast: 0.8520777300000191
+  brandStrength: 0.6524539501406252
+  lightness: 0.834611589089036
+  saturation: 0.19753511110320687
+  rhythmicContrast: 0.6058058717753738
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 name: machine messiahs
