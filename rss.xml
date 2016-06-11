@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[machine messiahs]]></title>
-        <description><![CDATA[machine messiahs]]></description>
+        <title><![CDATA[because we can't]]></title>
+        <description><![CDATA[because we can't]]></description>
         <link>https://thegrid.ai/machine-messiahs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 07:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 07:59:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/machine-messiahs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd7ab283-cbaa-42e0-b741-05ea4e79cafb.png">]]></description>
+            <link>https://thegrid.ai/machine-messiahs/a0c04b54-53e9-4f4e-8d8c-a132907ab1f6/index.html</link>
+            <guid isPermaLink="false">a0c04b54-53e9-4f4e-8d8c-a132907ab1f6</guid>
+            <pubDate>Sat, 11 Jun 2016 07:59:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a91c43c1-e980-4082-879c-13e8e241911d.jpg">]]></description>
