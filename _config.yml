@@ -1,16 +1,16 @@
 typography_spectrum: 0.17929125647060573
 color:
-  brandStrength: 0.5448055327869952
-  lightness: 0.8336036126129329
-  saturation: 0.010268465615808964
-  rhythmicContrast: 0.1072763551492244
+  brandStrength: 0.24828142626211047
+  lightness: 0.4624791794922203
+  saturation: 0.5581493431236595
+  rhythmicContrast: 0.3190745448227972
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-layout_spectrum: 0.5613492736592889
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.18387240078300238
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/091800e7-9d18-433d-b455-a459e935969f.jpg
 name: machine messiahs
